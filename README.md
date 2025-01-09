@@ -33,9 +33,9 @@ No esperes código de nivel profesional, súper pulido y con documentación para
 *   **Herramientas para reconocimiento y análisis (explorando el ciberespacio con una lupa).**
 *   **Notas, comentarios y, a veces, incluso algún error de principiante (¡todos hemos estado ahí!).**
 
-**Unas palabras sobre la "ética" (la regla de oro del sombrero gris):**
+**Unas palabras sobre la "ética" (la razón de ser del "sombrero gris"):**
 
-Si bien me divierte explorar los límites, soy un firme defensor de la divulgación responsable y las prácticas de hacking ético. Cualquier vulnerabilidad que descubra de forma no intencionada será reportada a quien corresponda. Mi objetivo principal es aprender, compartir conocimiento y contribuir a un mundo digital más seguro... ¡a mi manera, que es explorando y entendiendo! Este espacio es para aprender y experimentar, **nunca para actividades ilegales o maliciosas. ¡Seamos exploradores responsables!**
+Si bien me divierte explorar los límites, soy un firme defensor de la divulgación responsable y las prácticas de hacking ético. Cualquier vulnerabilidad que descubra de forma no intencionada será reportada a quien corresponda. Mi objetivo principal es aprender, compartir conocimiento y contribuir a un mundo digital más seguro (¡a mi manera!). Este espacio es para aprender y experimentar, **nunca para actividades ilegales o maliciosas. ¡Seamos buenos exploradores!**
 
 **¡Conectemos y aprendamos juntos en este patio de juegos digital!**
 
