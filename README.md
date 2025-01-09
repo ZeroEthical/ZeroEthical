@@ -1,4 +1,4 @@
-## 👾 El Laboratorio del Hacker Curioso (Sombrero Gris Inside)
+## 👾 El Laboratorio del Hacker ZeroEthical (Sombrero Gris Inside)
 
 ¡Saludos, compañero explorador del ciberespacio! 👋 Has tropezado con el rincón digital de alguien que encuentra el mundo de la seguridad informática un patio de juegos fascinante. Piensa en esto como mi taller personal, donde experimento, desmonto y, a veces, ¡vuelvo a montar las cosas de maneras inesperadas!
 
@@ -7,7 +7,7 @@
 Simplemente un curioso con un teclado y una sed insaciable de entender cómo funcionan las cosas (especialmente las que se supone que son "seguras"). Me atrae la lógica, los desafíos y la emoción de descubrir los entresijos de los sistemas. No soy un villano de película, ni un santo digital, sino alguien que disfruta explorando los límites... con una sonrisa traviesa.
 
 **¿Qué vas a encontrar revoloteando por aquí?**
-
+l
 Este README y mis repositorios son un reflejo de mis aventuras en el mundo de la seguridad. Prepárate para una mezcla interesante de:
 
 *   **Pruebas de Concepto (PoCs) jugosas:** Pequeños experimentos para entender cómo funcionan las vulnerabilidades y cómo podrían ser... "persuadidas" para hacer cosas interesantes. Siempre en entornos controlados, ¡promesa de hacker!
@@ -40,6 +40,7 @@ Si bien me divierte explorar los límites, soy un firme defensor de la divulgaci
 **¡Conectemos y aprendamos juntos!**
 
 Siempre estoy abierto a conectar con otros entusiastas de la seguridad, compartir ideas y aprender de nuevas perspectivas. Si tienes preguntas, sugerencias o simplemente quieres charlar sobre el último fallo de seguridad, ¡no dudes en ponerte en contacto!
+
 Telegram: @ZeroEthical
 
 **¡Feliz Hacking!**
