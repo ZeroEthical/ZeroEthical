@@ -1,4 +1,4 @@
-## 🕵️‍♂️ El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris)
+## 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
 ¡Hola, compañero viajero del reino digital! 👋 Te has topado con el taller en línea de alguien que encuentra el intrincado mundo de la ciberseguridad absolutamente fascinante. Piensa en esto como mi caja de arena digital, donde trasteo, exploro y, ocasionalmente, empujo los límites de lo posible, todo en nombre de entender cómo funcionan las cosas (y, seamos honestos, a veces cómo *no* lo hacen).
 
