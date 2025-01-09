@@ -2,9 +2,9 @@
 
 ¡Hola! Te has tropezado con el rincón digital de alguien que encuentra la seguridad informática un tema fascinante, ¡y a veces, un poco adictivo! Piensa en mí como un explorador digital, curioso por naturaleza y con una inclinación por descubrir cómo funcionan las cosas... y a veces, cómo se rompen.
 
-**¿Quién soy?**
+**¿Quién soy detrás de la pantalla?**
 
-Soy un entusiasta de la seguridad, motivado principalmente por la curiosidad y el desafío intelectual. Disfruto experimentando con sistemas, trasteando con código y, sí, ocasionalmente "desmontando" algo para ver cómo funciona por dentro. Mi enfoque está en el aprendizaje y la comprensión, ¡sin intenciones nefastas! Considera esto mi patio de recreo digital, donde las reglas son... bueno, digamos que las interpreto con cierta flexibilidad, siempre dentro de los límites de la ética (más o menos 😉).
+Simplemente un curioso con un teclado y una sed insaciable de entender cómo funcionan las cosas (especialmente las que se supone que son "seguras"). Me atrae la lógica, los desafíos y la emoción de descubrir los entresijos de los sistemas. No soy un villano de película, ni un santo digital, sino alguien que disfruta explorando los límites... con una sonrisa traviesa.😁
 
 **¿Qué tipo de huellas digitales encontrarás aquí?**
 
