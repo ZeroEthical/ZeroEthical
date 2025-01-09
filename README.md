@@ -1,6 +1,6 @@
 ## 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
-¡Hola! Te has tropezado con el rincón digital de alguien que encuentra la seguridad informática un tema fascinante, ¡y a veces, un poco adictivo! Piensa en mí como un explorador digital, curioso por naturaleza y con una inclinación por descubrir cómo funcionan las cosas... y a veces, cómo se rompen.
+¡Saludos, compañero explorador del ciberespacio! 👋 Has tropezado con el rincón digital de alguien que encuentra el mundo de la seguridad informática un patio de juegos fascinante. Piensa en esto como mi taller personal, donde experimento, desmonto y, a veces, ¡vuelvo a montar las cosas de maneras inesperadas!, ¡soy a veces, un poco adictivo! Piensa en mí como un explorador digital, curioso por naturaleza y con una inclinación por descubrir cómo funcionan las cosas... y a veces, cómo se rompen.
 
 **¿Quién soy detrás de la pantalla?**
 
@@ -31,7 +31,7 @@ Piensa en esto como un taller, no como una sala de exposición impecable. Encont
 *   **Scripts para automatizar tareas de seguridad (y tal vez algunos para automatizar las partes mundanas de la vida también).**
 *   **Ejemplos de explotación de vulnerabilidades (claramente marcados y destinados únicamente para uso educativo). Aquí no hay travesuras de sombrero negro.**
 *   **Herramientas para reconocimiento y análisis (explorando el paisaje digital con curiosidad).**
-*   **Comentarios, notas y a veces incluso algunos momentos "¡ajá!" capturados en código.**
+*   **Notas, comentarios y, a veces, incluso algún error de novato (¡todos empezamos en algún punto!).**
 
 **Unas Palabras sobre la Ética (el "Gris" en Sombrero Gris):**
 
