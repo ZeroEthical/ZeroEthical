@@ -41,6 +41,6 @@ Si bien me divierte explorar los límites, soy un firme defensor de la divulgaci
 
 Siempre estoy abierto a conectar con otros entusiastas de la seguridad, compartir ideas y aprender de nuevas perspectivas. Si tienes preguntas, sugerencias o simplemente quieres charlar sobre el último descubrimiento en el mundo de la seguridad, ¡no dudes en ponerte en contacto!
 
-**¡Feliz Hacking (del tipo que nos hace más inteligentes y más seguros)!**
+Telegram: @ZeroEthical
 
-El Explorador del Sombrero Gris
+**¡Feliz Hacking!**
