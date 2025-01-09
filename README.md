@@ -1,10 +1,10 @@
 ## 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
-¡Hola, compañero viajero del reino digital! 👋 Te has topado con el taller en línea de alguien que encuentra el intrincado mundo de la ciberseguridad absolutamente fascinante. Piensa en esto como mi caja de arena digital, donde trasteo, exploro y, ocasionalmente, empujo los límites de lo posible, todo en nombre de entender cómo funcionan las cosas (y, seamos honestos, a veces cómo *no* lo hacen).
+¡Hola! Te has tropezado con el rincón digital de alguien que encuentra la seguridad informática un tema fascinante, ¡y a veces, un poco adictivo! Piensa en mí como un explorador digital, curioso por naturaleza y con una inclinación por descubrir cómo funcionan las cosas... y a veces, cómo se rompen.
 
-**Entonces, ¿quién está detrás del teclado?**
+**¿Quién soy?**
 
-Simplemente llámame un alma curiosa con pasión por los rompecabezas, especialmente aquellos que involucran bits, bytes y alguna que otra vulnerabilidad de seguridad. Me impulsa la emoción del descubrimiento, la satisfacción de resolver desafíos complejos y la pura diversión intelectual de navegar por el paisaje en constante evolución de la ciberseguridad. Exploro este espacio no con intenciones maliciosas, sino con un deseo profundo de aprender, comprender y, ocasionalmente, iluminar los caminos menos transitados.
+Soy un entusiasta de la seguridad, motivado principalmente por la curiosidad y el desafío intelectual. Disfruto experimentando con sistemas, trasteando con código y, sí, ocasionalmente "desmontando" algo para ver cómo funciona por dentro. Mi enfoque está en el aprendizaje y la comprensión, ¡sin intenciones nefastas! Considera esto mi patio de recreo digital, donde las reglas son... bueno, digamos que las interpreto con cierta flexibilidad, siempre dentro de los límites de la ética (más o menos 😉).
 
 **¿Qué tipo de huellas digitales encontrarás aquí?**
 
