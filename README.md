@@ -22,7 +22,7 @@ Este README y mis repositorios son un reflejo de mi viaje en curso por el mundo 
 *   Ingeniería Inversa (echando un vistazo bajo el capó del software)
 *   Scripting en Python para Seguridad (mi confiable navaja suiza)
 *   Análisis de Vulnerabilidades (el arte de encontrar las grietas en la armadura)
-*   Desafíos CTF (Capture the Flag) (afilando mis habilidades en un entorno lúdico)
+*   Desafíos CTF (¡pura diversión intelectual!)
 
 **Qué esperar cuando te aventures en mis repositorios:**
 
