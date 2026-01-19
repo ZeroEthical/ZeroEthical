@@ -3,34 +3,37 @@
 
   <br />
 
-  <h1 style="font-family: 'Courier New', monospace; font-size: 40px; text-transform: uppercase;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ZEROETHICAL_OPERATOR;ADVANCED+THREAT+SIMULATION;SECURE+ARCHITECTURE+DESIGN;DIGITAL+FRONTIER+EXPLORER" alt="Typing SVG" />
+  <h1 style="font-family: 'Courier New', monospace; font-size: 35px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hola,+soy+ZeroEthical;Investigador+de+Seguridad;Grey+Hat+Dev;Rompiendo+código+para+entenderlo." alt="Typing SVG" />
   </h1>
 
   <a href="https://t.me/ZeroEthical">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Status" />
+    <img src="https://img.shields.io/badge/Contactar-Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Status" />
   </a>
 </div>
 
 <br />
 
-## 🛑 PROTOCOL: GREY HAT
+## 👋 Sobre Mí
 
-> **"La seguridad por oscuridad no es seguridad. Es solo una cuestión de tiempo."**
+> **"La curiosidad es el primer paso hacia la seguridad."**
 
-Mi perfil no es un CV, es una declaración de principios. En el ecosistema de **ZeroEthical**, la curiosidad es el motor y la ética es el volante.
+Más allá de los títulos y las certificaciones, soy alguien que disfruta profundamente entendiendo **cómo funcionan las cosas por dentro**.
 
-Como investigador de seguridad, me especializo en la **ingeniería inversa** de amenazas y el **desarrollo de exploits** personalizados. No ejecuto scripts que no entiendo; deconstruyo binarios, analizo el tráfico de red y encuentro el fallo lógico que otros pasan por alto.
+En el mundo de la ciberseguridad, a menudo se confunde el uso de herramientas con el conocimiento real. Mi enfoque es diferente: no me gusta ejecutar un script si no entiendo qué hace línea por línea. Me considero un **Grey Hat** porque creo que para proteger una infraestructura, necesitas pensar con la creatividad de quien intenta vulnerarla.
 
-**Mi Misión:** Identificar la brecha antes que el adversario.
+Mi día a día consiste en:
+*   🔍 **Investigar:** Analizar vulnerabilidades lógicas que los escáneres automáticos pasan por alto.
+*   🛠️ **Construir:** Desarrollar mis propias herramientas en **Python** para automatizar tareas complejas.
+*   🛡️ **Proteger:** Reportar fallos y ayudar a parchear sistemas antes de que sean explotados maliciosamente.
 
 ---
 
-## ⚡ TECH_STACK & ARSENAL
+## 💻 Mi Stack Técnico
+
+Herramientas que uso para investigar, desarrollar y auditar:
 
 <div align="center">
-  <p>Herramientas de despliegue y análisis utilizadas en operaciones activas:</p>
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,wireshark,md,git,docker,vim&perline=10&theme=dark" />
   </a>
@@ -43,7 +46,7 @@ Como investigador de seguridad, me especializo en la **ingeniería inversa** de 
 
 ---
 
-## 📡 INTELLIGENCE_METRICS
+## 📊 Mis Estadísticas
 
 <div align="center">
   <table>
@@ -62,21 +65,21 @@ Como investigador de seguridad, me especializo en la **ingeniería inversa** de 
 
 ---
 
-## 🗺️ OPERATIONS_LOG
+## 🗺️ Áreas de Enfoque
 
-| **Class** | **Description** | **Status** |
+| **Área** | **Descripción** | **Estado** |
 | :--- | :--- | :--- |
-| **RED_TEAM** | Simulación de adversarios y pruebas de penetración ofensivas. | `ACTIVE` |
-| **BLUE_TEAM** | Análisis forense, hardening de servidores y detección de intrusos. | `AVAILABLE` |
-| **R&D** | Investigación de vulnerabilidades Zero-Day y desarrollo de PoCs. | `ONGOING` |
+| **Red Team** | Pruebas de penetración y simulación de ataques. | `Activo` |
+| **Blue Team** | Análisis de logs, forense y securización. | `Disponible` |
+| **I+D** | Investigación de nuevas vulnerabilidades y desarrollo de PoCs. | `Constante` |
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
   <br/>
-  <h3>¿Listo para asegurar tu infraestructura?</h3>
+  <h3>¿Hablamos de seguridad?</h3>
   <a href="https://t.me/ZeroEthical">
-    <img src="https://img.shields.io/badge/INITIATE_HANDSHAKE-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Enviar_Mensaje-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
