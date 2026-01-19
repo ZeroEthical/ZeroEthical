@@ -1,75 +1,74 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Cyber Security Banner" width="100%" height="200" style="object-fit: cover;" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ZeroEthical&fontSize=90&fontAlign=50&fontAlignY=35&desc=CYBERPUNK%20NETRUNNER%20//%20SECURITY%20RESEARCHER&descAlign=50&descAlignY=60&animation=fadeIn&stroke=00ffff&strokeWidth=2" alt="Header" width="100%" />
+  <br />
+  <br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=F706CF&width=500&lines=System+Breach+Detected...;Identity+Verified:+ZeroEthical;Mission:+Secure+The+Net;Status:+Connected" alt="Typing SVG" />
-  </a>
+  <h1 style="border-bottom: none;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=30&pause=1000&color=00BFFF&width=600&lines=InfoSec+Researcher+%7C+Grey+Hat+Operator;Custom+Tool+Development+%7C+Automation;Vulnerability+Assessment+%7C+Secure+Code+Audit;Not+Just+Running+Scripts...+Building+Them." alt="Typing SVG" />
+    </a>
+  </h1>
 
   <p>
     <a href="https://t.me/ZeroEthical">
-      <img src="https://img.shields.io/badge/SIGNAL-@ZeroEthical-03e9f4?style=for-the-badge&logo=telegram&logoColor=black&labelColor=white" alt="Telegram">
+      <img src="https://img.shields.io/badge/COMM_CHANNEL-ENCRYPTED-000000?style=for-the-badge&logo=telegram&logoColor=00BFFF&labelColor=1c1c1c" alt="Telegram">
     </a>
   </p>
-
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="5px" />
-</div>
+## 🕵️‍♂️ Professional Profile
 
-### 🔮 IDENTITY_MATRIX
+> **"True security comes from understanding the breakdown. I don't just use the tools; I reverse-engineer them."**
 
-> **"Navegando las luces de neón del ciberespacio. Donde los datos fluyen, yo exploro."**
+Unlike the "Script Kiddie" approach of blindly firing exploits, my methodology is rooted in **deep-dive analysis** and **structural understanding**. I specialize in dissecting systems to identify critical vulnerabilities that automated scanners miss.
 
-Soy un investigador de seguridad y entusiasta del **Grey Hat**. Mi mundo son los paquetes de datos, los exploits de día cero (en entornos controlados 😜) y la automatización con Python. Busco las vulnerabilidades antes de que los "malos" lo hagan.
+As a **Grey Hat Researcher**, I operate at the intersection of offensive capability and ethical responsibility. My goal isn't just to break in, but to understand *why* the breach was possible and how to architecturally prevent it.
+
+### 🔭 Core Competencies
+
+*   **Vulnerability Research:** Moving beyond CVE scanning to find Zero-Day logic flaws.
+*   **Exploit Development:** Writing custom Python/C payloads for specific environments.
+*   **Security Automation:** Building scalable tools to orchestrate reconnaissance and analysis.
+*   **Network Forensics:** analyzing packet captures to reconstruct attack vectors.
 
 ---
 
-### ⚡ CYBER_ARSENAL
+## 🛠️ Operational Arsenal
+
+| **OFFENSIVE OPERATIONS** | **DEFENSIVE & ANALYSIS** | **DEVELOPMENT** |
+| :--- | :--- | :--- |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-1c1c1c?style=flat-square&logo=metasploit&logoColor=00BFFF) | ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1c1c1c?style=flat-square&logo=wireshark&logoColor=00BFFF) | ![Python](https://img.shields.io/badge/Python-Scripting-1c1c1c?style=flat-square&logo=python&logoColor=00BFFF) |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Sec-1c1c1c?style=flat-square&logo=burpsuite&logoColor=00BFFF) | ![Nmap](https://img.shields.io/badge/Nmap-Recon-1c1c1c?style=flat-square&logo=nmap&logoColor=00BFFF) | ![Bash](https://img.shields.io/badge/Bash-Automation-1c1c1c?style=flat-square&logo=gnu-bash&logoColor=00BFFF) |
+| ![Kali](https://img.shields.io/badge/Kali_Linux-OS-1c1c1c?style=flat-square&logo=kalilinux&logoColor=00BFFF) | ![Snort](https://img.shields.io/badge/Snort-IDS-1c1c1c?style=flat-square&logo=snort&logoColor=00BFFF) | ![C++](https://img.shields.io/badge/C++-Exploits-1c1c1c?style=flat-square&logo=c%2B%2B&logoColor=00BFFF) |
+
+---
+
+## 📊 Research Metrics
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hacking-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Sec-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploit-Metasploit-333333?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anon-Tor-7D4698?style=flat-square&logo=tor-browser&logoColor=white" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroEthical&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1c1c&title_color=00BFFF&icon_color=00BFFF&text_color=a9a9a9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEthical&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1c1c&title_color=00BFFF&icon_color=00BFFF&text_color=a9a9a9" alt="Langs" />
 </div>
 
-### 📊 DATA_STREAM
+---
+
+## 📜 Ethical Framework
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroEthical&show_icons=true&theme=synthwave&hide_border=true&bg_color=2a0a2e&title_color=fff&icon_color=f706cf" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEthical&layout=compact&theme=synthwave&hide_border=true&bg_color=2a0a2e&title_color=fff&icon_color=00f2ff" alt="Langs" />
+  <i>"With great power comes great responsibility."</i>
 </div>
 
-### 💾 MISSION_LOGS
+All tools and PoCs in this repository are developed for **Educational** and **Research** purposes only.
+*   ✅ **Authorized Testing Only**
+*   ✅ **Responsible Disclosure**
+*   ⛔ **No Malicious Use**
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Disk" width="20" height="20" /> Sector | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Technologist.png" alt="Tech" width="20" height="20" /> Description |
-| :--- | :--- |
-| **POC_VAULT** | Experimentos controlados y pruebas de concepto. *Solo fines educativos.* |
-| **SCRIPT_KIDDIE_NO_MORE** | Herramientas propias en Python para automatizar la seguridad. |
-| **BRAIN_DUMP** | Notas sobre criptografía, protocolos y seguridad web. |
-
-### 📡 ENCRYPTED_TRANSMISSION
-
-¿Tienes una misión? ¿O simplemente quieres compartir datos?
+<br />
 
 <div align="center">
-  <a href="https://t.me/ZeroEthical">
-    <img src="https://img.shields.io/badge/ESTABLISH_UPLINK-TELEGRAM-7289da?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&width=100%" />
-  <p style="color: #ff00ff; font-family: sans-serif;"><b>END_OF_LINE // KEEP_IT_SECURE</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
+  <p style="font-family: monospace; color: #555;">[ SESSION_TERMINATED ]</p>
 </div>
