@@ -1,46 +1,79 @@
-## 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
+<div align="center">
 
-¡Saludos, compañero explorador del ciberespacio! 👋 Has tropezado con el rincón digital de alguien que encuentra el mundo de la seguridad informática un patio de juegos fascinante. Piensa en esto como mi taller personal, donde experimento, desmonto y, a veces, ¡vuelvo a montar las cosas de maneras inesperadas!, ¡soy a veces, un poco adictivo! Piensa en mí como un explorador digital, curioso por naturaleza y con una inclinación por descubrir cómo funcionan las cosas... y a veces, cómo se rompen.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=ZeroEthical&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Grey%20Hat%20Explorer&descAlignY=55&descAlign=50" alt="ZeroEthical Header" width="100%"/>
 
-**¿Quién soy detrás de la pantalla?**
+  ### 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
-Simplemente un curioso con un teclado y una sed insaciable de entender cómo funcionan las cosas (especialmente las que se supone que son "seguras"). Me atrae la lógica, los desafíos y la emoción de descubrir los entresijos de los sistemas. No soy un villano de película, ni un santo digital, sino alguien que disfruta explorando los límites... con una sonrisa traviesa.😁
+  <p>
+    <a href="https://t.me/ZeroEthical">
+      <img src="https://img.shields.io/badge/Telegram-@ZeroEthical-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+  </p>
 
-**¿Qué tipo de huellas digitales encontrarás aquí?**
+  ---
 
-Este README y mis repositorios son un reflejo de mi viaje en curso por el mundo de la seguridad. Espera una colección diversa de:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Grey+Hat+Enthusiast;Web+Security+Researcher;Python+Scripter;CTF+Player;Curious+Mind" alt="Typing SVG" />
 
-*   **Pruebas de Concepto (PoCs) con Propósito:** Experimentos enfocados diseñados para demostrar cómo funcionan ciertas vulnerabilidades y cómo *podrían* ser explotadas. Estas se construyen en entornos controlados, estrictamente con fines educativos. Piensa en ellas como disecciones digitales, que nos ayudan a comprender el funcionamiento interno.
-*   **Herramientas y Scripts Caseros:** Utilidades que he creado para automatizar tareas, analizar sistemas o simplemente para rascar una picazón particular. Probablemente encontrarás una inclinación hacia Python, pero siempre estoy abierto a explorar nuevos lenguajes y técnicas.
-*   **Notas de Aprendizaje y Exploraciones:** Fragmentos de información, notas de investigación y reflexiones sobre temas en los que me estoy sumergiendo actualmente. Esto podría variar desde diseccionar una nueva técnica de exploit hasta entender los matices de un protocolo de seguridad específico. Considéralo mi diario de aprendizaje público.
-*   **Contribuciones Ocasionales (cuando las estrellas se alinean):** Si me encuentro con algo que creo que podría ser genuinamente útil para la comunidad de seguridad más amplia, me esforzaré por compartirlo de manera responsable y ética.
+</div>
 
-**Mis Áreas Actuales de Fascinación (y Habilidades en Progreso):**
+## 👨‍💻 Sobre Mí
 
-*   Seguridad de Aplicaciones Web (desentrañando las complejidades del navegador y el servidor)
-*   Seguridad de Redes (descifrando el lenguaje de los paquetes y protocolos)
-*   Ingeniería Inversa (echando un vistazo bajo el capó del software)
-*   Scripting en Python para Seguridad (mi confiable navaja suiza)
-*   Análisis de Vulnerabilidades (el arte de encontrar las grietas en la armadura)
-*   Desafíos CTF (¡pura diversión intelectual!)
+¡Saludos, compañero explorador del ciberespacio! 👋 Has tropezado con mi rincón digital. Este es mi taller personal donde experimento con la seguridad informática.
 
-**Qué esperar cuando te aventures en mis repositorios:**
+Soy un **explorador digital**, curioso por naturaleza. Me atrae la lógica, los desafíos y la emoción de descubrir cómo funcionan las cosas (y cómo se rompen 🛠️).
 
-Piensa en esto como un taller, no como una sala de exposición impecable. Encontrarás código que es funcional, pero quizás no siempre perfectamente pulido. Espera ver:
+> "No soy un villano de película, ni un santo digital, sino alguien que disfruta explorando los límites... con una sonrisa traviesa. 😁"
 
-*   **Scripts para automatizar tareas de seguridad (y tal vez algunos para automatizar las partes mundanas de la vida también).**
-*   **Ejemplos de explotación de vulnerabilidades (claramente marcados y destinados únicamente para uso educativo). Aquí no hay travesuras de sombrero negro.**
-*   **Herramientas para reconocimiento y análisis (explorando el paisaje digital con curiosidad).**
-*   **Notas, comentarios y, a veces, incluso algún error de novato (¡todos empezamos en algún punto!).**
+## 🛠️ Arsenales & Habilidades
 
-**Unas Palabras sobre la Ética (el "Gris" en Sombrero Gris):**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
 
-Si bien me impulsa la curiosidad y el deseo de entender cómo funcionan las cosas, creo firmemente en la divulgación responsable y las prácticas de hacking ético. Cualquier vulnerabilidad que descubra sin intención se informa a las partes correspondientes. Mi objetivo es aprender y contribuir a un mundo digital más seguro, no causar daño. Este espacio está destinado a la exploración educativa y **nunca** debe utilizarse para actividades ilegales o maliciosas. Mantengamos Internet como un lugar para el aprendizaje y el crecimiento, no la destrucción.
+## 📊 Estadísticas de GitHub
 
-**¡Conectemos y Aprendamos Juntos!**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroEthical&show_icons=true&theme=radical&hide_border=true" alt="ZeroEthical's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEthical&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-Siempre estoy dispuesto a conectar con compañeros entusiastas de la seguridad, compartir ideas y aprender de diferentes perspectivas. Si tienes preguntas, sugerencias o simplemente quieres charlar sobre las últimas noticias de seguridad, no dudes en ponerte en contacto.
+## 📂 ¿Qué encontrarás aquí?
 
-**Telegram: @ZeroEthical*
+Este repositorio refleja mi viaje en seguridad informática:
 
-**¡Feliz Hacking!**
+| Categoría | Descripción |
+| :--- | :--- |
+| **🧪 PoCs** | Pruebas de Concepto con fines educativos. Disecciones digitales para entender vulnerabilidades. |
+| **🛠️ Herramientas** | Scripts caseros (principalmente Python) para automatizar tareas y análisis. |
+| **📝 Notas** | Fragmentos de aprendizaje, investigaciones y reflexiones sobre seguridad. |
+| **🤝 Contribuciones** | Aportes éticos a la comunidad de seguridad. |
+
+## ⚖️ Ética (Grey Hat)
+
+Creo firmemente en la **divulgación responsable** y el **hacking ético**.
+- 🛡️ Mi objetivo es aprender y contribuir a un mundo digital más seguro.
+- 🚫 Este espacio es estrictamente educativo. **Nunca** para actividades ilegales.
+- 🤝 Cualquier vulnerabilidad descubierta se informa a las partes correspondientes.
+
+## 📬 Conecta Conmigo
+
+¿Tienes preguntas, sugerencias o quieres charlar sobre seguridad? ¡Hablemos!
+
+<div align="center">
+  <a href="https://t.me/ZeroEthical">
+    <img src="https://img.shields.io/badge/Telegram-Send%20Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Mantengamos Internet como un lugar para el aprendizaje y el crecimiento."</i>
+  <br>
+  <b>¡Feliz Hacking! 🕵️‍♂️</b>
+</div>
