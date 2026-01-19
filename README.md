@@ -1,115 +1,82 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/cfuL5tMYVz1ru/giphy.gif" alt="Matrix Rain" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://media.giphy.com/media/o0vzSQQP0BjRYBOnEi/giphy.gif" alt="Cyber Ops Banner" width="100%" height="280" style="object-fit: cover;" />
 
-  <br/>
+  <br />
 
-  <h1 style="color: #00FF00; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00FF00;">
-    &lt; ZERO_ETHICAL_PROTOCOL /&gt;
+  <h1 style="font-family: 'Courier New', monospace; font-size: 40px; text-transform: uppercase;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ZEROETHICAL_OPERATOR;ADVANCED+THREAT+SIMULATION;SECURE+ARCHITECTURE+DESIGN;DIGITAL+FRONTIER+EXPLORER" alt="Typing SVG" />
   </h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=30&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=INITIATING+SYSTEM+OVERRIDE...;ACCESSING+KERNEL:+ZeroEthical;SUBJECT:+GREY+HAT+OPERATIONS;STATUS:+UNDETECTED" alt="Typing SVG" />
+  <a href="https://t.me/ZeroEthical">
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00BFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Status" />
   </a>
-
-  <p>
-    <a href="https://t.me/ZeroEthical">
-      <img src="https://img.shields.io/badge/ENCRYPTED_LINK-@ZeroEthical-000000?style=for-the-badge&logo=telegram&logoColor=00FF00&labelColor=000000&borderColor=00FF00" alt="Telegram">
-    </a>
-  </p>
 </div>
 
+<br />
+
+## 🛑 PROTOCOL: GREY HAT
+
+> **"La seguridad por oscuridad no es seguridad. Es solo una cuestión de tiempo."**
+
+Mi perfil no es un CV, es una declaración de principios. En el ecosistema de **ZeroEthical**, la curiosidad es el motor y la ética es el volante.
+
+Como investigador de seguridad, me especializo en la **ingeniería inversa** de amenazas y el **desarrollo de exploits** personalizados. No ejecuto scripts que no entiendo; deconstruyo binarios, analizo el tráfico de red y encuentro el fallo lógico que otros pasan por alto.
+
+**Mi Misión:** Identificar la brecha antes que el adversario.
+
 ---
+
+## ⚡ TECH_STACK & ARSENAL
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QfpF5hjwYlT0c/giphy.gif" width="90%" height="20" />
+  <p>Herramientas de despliegue y análisis utilizadas en operaciones activas:</p>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,wireshark,md,git,docker,vim&perline=10&theme=dark" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,mysql,postgres,redis,mongodb,flask,django,react&perline=10&theme=dark" />
+  </a>
 </div>
-
-## 💀 [ROOT_USER]: Bio
-
-```ini
-[SYSTEM_LOG]
-> Identity: ZeroEthical
-> Class: Grey Hat Researcher / Digital Explorer
-> Mission: Dismantle. Analyze. Secure.
-> Quote: "La seguridad es una ilusión que disfruto romper."
-```
-
-Bienvenido al **Núcleo**. No soy el típico desarrollador que copia y pega de StackOverflow. Soy el que invierte la ingeniería de la librería que estás usando.
-
-Mi enfoque es **quirúrgico**: entiendo los bits, los protocolos y la lógica antes de lanzar el exploit. Aquí encontrarás mis experimentos en el borde de la legalidad (siempre educativa, claro 😉).
 
 ---
 
-## ☢️ [ARSENAL]: Active Modules
+## 📡 INTELLIGENCE_METRICS
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-        <br>Python
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ZeroEthical&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&rank_icon=github" alt="Stats" />
       </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-        <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="50" height="50" />
-        <br>Linux
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="icon" width="50" height="50" />
-        <br>Bash
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="icon" width="50" height="50" />
-        <br>Recon
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEthical&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" alt="Langs" />
       </td>
     </tr>
   </table>
 
-  <br>
-
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=00FF00&color=000000" />
-  <img src="https://img.shields.io/badge/Tool-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00FF00&color=000000" />
-  <img src="https://img.shields.io/badge/Tool-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF00&color=000000" />
-  <img src="https://img.shields.io/badge/Tool-Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00FF00&color=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroEthical&theme=dark&background=0D1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=c9d1d9&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## 📟 [METRICS]: System Status
+## 🗺️ OPERATIONS_LOG
 
-<div align="center">
-  <!-- GitHub Stats: CRT Terminal Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroEthical&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false&count_private=true" alt="ZeroEthical Stats" />
-
-  <br/>
-
-  <!-- Top Langs: CRT Terminal Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroEthical&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="Top Langs" />
-
-  <br/>
-
-  <!-- Streak Stats: CRT Terminal Theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroEthical&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="Streak Stats" />
-</div>
+| **Class** | **Description** | **Status** |
+| :--- | :--- | :--- |
+| **RED_TEAM** | Simulación de adversarios y pruebas de penetración ofensivas. | `ACTIVE` |
+| **BLUE_TEAM** | Análisis forense, hardening de servidores y detección de intrusos. | `AVAILABLE` |
+| **R&D** | Investigación de vulnerabilidades Zero-Day y desarrollo de PoCs. | `ONGOING` |
 
 ---
 
-## 📡 [TRANSMISSION]: Uplink
-
-¿Detectaste una anomalía? ¿O solo quieres hablar de criptografía?
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
+  <br/>
+  <h3>¿Listo para asegurar tu infraestructura?</h3>
   <a href="https://t.me/ZeroEthical">
-    <img src="https://img.shields.io/badge/SECURE_CHAT-TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF00&labelColor=000000&color=000000&borderColor=00FF00" alt="Telegram" />
+    <img src="https://img.shields.io/badge/INITIATE_HANDSHAKE-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=2&width=100%" />
-  <p style="font-family: 'Courier New'; color: #00FF00;">[ CONNECTION_TERMINATED ]</p>
 </div>
