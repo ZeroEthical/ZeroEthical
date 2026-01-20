@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/o0vzSQQP0BjRYBOnEi/giphy.gif" alt="Cyber Ops Banner" width="100%" height="280" style="object-fit: cover;" />
+  <img src="https://github.com/ZeroEthical/ZeroEthical/raw/main/animation.gif" alt="ZeroEthical Banner" width="100%" style="object-fit: cover;" />
 
   <br />
 
@@ -14,26 +14,11 @@
 
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
-
 > **"En el código no hay moral, solo lógica."**
 
-<table>
-  <tr>
-    <td width="60%">
-      No busques certificaciones aquí. No tengo papeles de la EC-Council ni de CompTIA que digan lo que sé. Mi conocimiento no viene de un examen de opción múltiple, viene de romper cosas, de leer documentación hasta que me sangren los ojos y de entender que la seguridad es una ilusión que solo dura hasta que alguien con suficiente curiosidad decide mirar debajo del capó.
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Matrix Terminal" />
-    </td>
-  </tr>
-</table>
+No busques certificaciones aquí. No tengo papeles de la EC-Council ni de CompTIA que digan lo que sé. Mi conocimiento no viene de un examen de opción múltiple, viene de romper cosas, de leer documentación hasta que me sangren los ojos y de entender que la seguridad es una ilusión que solo dura hasta que alguien con suficiente curiosidad decide mirar debajo del capó.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
+---
 
 ## 🛠️ ¿Qué hago? (Mi Especialidad)
 
@@ -44,9 +29,7 @@ Me muevo en el **Gray Hat**. ¿Qué significa eso? Que no me interesan los bando
 
 Mi especialidad es la **curiosidad técnica aplicada**: desde desmenuzar un exploit de Office hasta crear backdoors que se camuflan en el flujo de trabajo diario. Si tiene código, se puede analizar. Si se puede analizar, se puede comprometer.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
+---
 
 ## 🧠 Conocimiento Base (Self-Taught)
 
@@ -63,23 +46,15 @@ Mi especialidad es la **curiosidad técnica aplicada**: desde desmenuzar un expl
   <br/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
+---
 
 ## 🚀 Roadmap Personal
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="50%" alt="Loading" />
-</div>
 
 - [ ] Seguir rompiendo lo que otros dicen que es "seguro".
 - [ ] Automatizar la búsqueda de 0-days en software de uso masivo.
 - [ ] Tal vez, y solo tal vez, sacar una certificación algún día... solo para demostrar que puedo pasar su examen durmiendo.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
+---
 
 ## 📊 Métricas
 
@@ -96,9 +71,7 @@ Mi especialidad es la **curiosidad técnica aplicada**: desde desmenuzar un expl
   </table>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="30px" />
-</div>
+---
 
 ## 💬 Contacto
 
@@ -106,7 +79,6 @@ Si tienes algo interesante que analizar o una vulnerabilidad que nadie ha podido
 
 <div align="center">
   <a href="https://t.me/ZeroEthical">
-    <img src="https://media.giphy.com/media/LmqPAwHkI4Fh2h1GvW/giphy.gif" width="50px" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Initiate_Uplink-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <br/>
