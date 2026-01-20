@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ZeroEthical/ZeroEthical/raw/main/animation.gif" alt="ZeroEthical Banner" width="100%" />
+  <img src="https://github.com/ZeroEthical/ZeroEthical/blob/main/animation.gif" alt="ZeroEthical Banner" width="100%" />
 
   <br />
 
