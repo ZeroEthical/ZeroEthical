@@ -4,7 +4,7 @@
   <br />
 
   <h1 style="font-family: 'Courier New', monospace; font-size: 35px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ZeroEthical;Explorador+Digital;El+conocimiento+es+libre;Romper+%3E+Entender+%3E+Asegurar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=En+el+c%C3%B3digo+no+hay+moral;Solo+l%C3%B3gica;ZeroEthical" alt="Typing SVG" />
   </h1>
 
   <a href="https://t.me/ZeroEthical">
@@ -14,35 +14,49 @@
 
 <br />
 
-## 👾 Status: Online
+> **"En el código no hay moral, solo lógica."**
 
-Soy **ZeroEthical**.
-
-Olvídate de los títulos académicos y las certificaciones de papel. Mi formación es el terreno: horas frente a la terminal, ingeniería inversa y esa curiosidad obsesiva por ver qué pasa si cambio un `0` por un `1`.
-
-¿Mi filosofía **Grey Hat**? Es simple: el mundo no es blanco o negro.
-No estoy abanderado con nadie. Me muevo en esa zona gris donde lo único que importa es la habilidad y el contexto. A veces protejo, a veces exploro. La ética no es una regla fija, es una decisión que tomo en cada línea de código. *guiño*
-
-Aquí no hay rodeos. O el sistema es seguro, o yo encuentro por dónde entrar.
+No busques certificaciones aquí. No tengo papeles de la EC-Council ni de CompTIA que digan lo que sé. Mi conocimiento no viene de un examen de opción múltiple, viene de romper cosas, de leer documentación hasta que me sangren los ojos y de entender que la seguridad es una ilusión que solo dura hasta que alguien con suficiente curiosidad decide mirar debajo del capó.
 
 ---
 
-## ⚡ Arsenal
+## 🛠️ ¿Qué hago? (Mi Especialidad)
+
+Me muevo en el **Gray Hat**. ¿Qué significa eso? Que no me interesan los bandos. No soy el héroe que viene a salvar tu empresa, ni el villano que quiere ver el mundo arder por diversión. **Soy el que explora las grietas.**
+
+*   **Si el contexto lo pide:** Ayudo a blindar sistemas encontrando lo que los "auditores certificados" pasaron por alto.
+*   **Si el escenario cambia:** Demuestro que tu seguridad es de papel mojado creando PoCs que funcionan.
+
+Mi especialidad es la **curiosidad técnica aplicada**: desde desmenuzar un exploit de Office hasta crear backdoors que se camuflan en el flujo de trabajo diario. Si tiene código, se puede analizar. Si se puede analizar, se puede comprometer.
+
+---
+
+## 🧠 Conocimiento Base (Self-Taught)
+
+*   **Exploitation:** UAF, Buffer Overflows, Path Traversal. Entiendo el crash antes de que ocurra.
+*   **Scripting:** Python y Bash para automatizar lo que a otros les toma horas.
+*   **Entornos:** Linux (mi casa), Windows (mi laboratorio de pruebas).
+*   **Ingeniería Social Técnica:** No solo engaño al software, entiendo cómo engañar al que lo usa.
 
 <div align="center">
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,wireshark,md,git,docker,vim&perline=10&theme=dark" />
   </a>
   <br/>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,mysql,postgres,redis,mongodb,flask,django,react&perline=10&theme=dark" />
-  </a>
 </div>
 
 ---
 
-## 📡 Métricas
+## 🚀 Roadmap Personal
+
+- [ ] Seguir rompiendo lo que otros dicen que es "seguro".
+- [ ] Automatizar la búsqueda de 0-days en software de uso masivo.
+- [ ] Tal vez, y solo tal vez, sacar una certificación algún día... solo para demostrar que puedo pasar su examen durmiendo.
+
+---
+
+## 📊 Métricas
 
 <div align="center">
   <table>
@@ -55,17 +69,23 @@ Aquí no hay rodeos. O el sistema es seguro, o yo encuentro por dónde entrar.
       </td>
     </tr>
   </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroEthical&theme=dark&background=0D1117&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=c9d1d9&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
+## 💬 Contacto
+
+Si tienes algo interesante que analizar o una vulnerabilidad que nadie ha podido reproducir, hablamos. Si vienes con sermones éticos o preguntas de principiante, no pierdas tu tiempo ni el mío.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
-  <br/>
-  <h3>¿Conectamos?</h3>
   <a href="https://t.me/ZeroEthical">
     <img src="https://img.shields.io/badge/Initiate_Uplink-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <br/>
+  <br/>
+  <p><i>"La diferencia entre un error y un exploit es solo una cuestión de perspectiva."</i></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
 </div>
