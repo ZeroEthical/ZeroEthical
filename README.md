@@ -12,8 +12,6 @@
 
   ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Grey+Hat+Enthusiast;Web+Security+Researcher;Python+Scripter;CTF+Player;Curious+Mind" alt="Typing SVG" />
-
 </div>
 
 ## 👨‍💻 Sobre Mí
