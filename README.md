@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/ZeroEthical/ZeroEthical/blob/main/YouCut_20260120_181728467.gif" alt="ZeroEthical Header" width="100%"/>
+  <img src="https://github.com/ZeroEthical/ZeroEthical/blob/main/animation.gif" alt="ZeroEthical Header" width="100%"/>
 
   ### 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
