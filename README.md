@@ -4,7 +4,7 @@
   <br />
 
   <h1 style="font-family: 'Courier New', monospace; font-size: 35px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ZeroEthical;Autodidacta;Ni+bueno,+ni+malo;Depende+del+contexto..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=ZeroEthical;Explorador+Digital;El+conocimiento+es+libre;Romper+%3E+Entender+%3E+Asegurar" alt="Typing SVG" />
   </h1>
 
   <a href="https://t.me/ZeroEthical">
@@ -14,19 +14,20 @@
 
 <br />
 
-## 👋 Qué tal
+## 👾 Status: Online
 
 Soy **ZeroEthical**.
 
-No tengo certificaciones ni títulos colgados en la pared (por el momento, quizá en el futuro). Todo lo que sé lo he aprendido por mi cuenta, rompiendo cosas y viendo cómo arreglarlas.
+Olvídate de los títulos académicos y las certificaciones de papel. Mi formación es el terreno: horas frente a la terminal, ingeniería inversa y esa curiosidad obsesiva por ver qué pasa si cambio un `0` por un `1`.
 
-¿**Grey Hat**? Para mí significa que no estoy a favor de nadie. No estoy del lado de los "buenos" ni de los "malos". Simplemente hago lo que hago. Que sea ético o no... bueno, eso dependerá del contexto. *risa leve*
+¿Mi filosofía **Grey Hat**? Es simple: el mundo no es blanco o negro.
+No estoy abanderado con nadie. Me muevo en esa zona gris donde lo único que importa es la habilidad y el contexto. A veces protejo, a veces exploro. La ética no es una regla fija, es una decisión que tomo en cada línea de código. *guiño*
 
-Soy directo. Me gusta el código, la seguridad y entender cómo funcionan los sistemas por dentro. Sin rodeos.
+Aquí no hay rodeos. O el sistema es seguro, o yo encuentro por dónde entrar.
 
 ---
 
-## 🛠️ Lo que uso
+## ⚡ Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +42,7 @@ Soy directo. Me gusta el código, la seguridad y entender cómo funcionan los si
 
 ---
 
-## 📊 Datos
+## 📡 Métricas
 
 <div align="center">
   <table>
@@ -63,8 +64,8 @@ Soy directo. Me gusta el código, la seguridad y entender cómo funcionan los si
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&width=100%" />
   <br/>
-  <h3>¿Charlamos?</h3>
+  <h3>¿Conectamos?</h3>
   <a href="https://t.me/ZeroEthical">
-    <img src="https://img.shields.io/badge/Mensaje-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Initiate_Uplink-@ZeroEthical-00BFFF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
