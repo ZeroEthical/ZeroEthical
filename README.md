@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=ZeroEthical&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Grey%20Hat%20Explorer&descAlignY=55&descAlign=50" alt="ZeroEthical Header" width="100%"/>
+  <img src="https://github.com/ZeroEthical/ZeroEthical/blob/main/YouCut_20260120_181728467.gif" alt="ZeroEthical Header" width="100%"/>
 
   ### 🎭 El Patio de Juegos Digital de una Mente Curiosa (Edición Sombrero Gris) 🕵️
 
