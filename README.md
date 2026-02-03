@@ -16,11 +16,35 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Saludos, compañero explorador del ciberespacio! 👋 Has tropezado con mi rincón digital. Este es mi taller personal donde experimento con la seguridad informática.
-
-Soy un **explorador digital**, curioso por naturaleza. Me atrae la lógica, los desafíos y la emoción de descubrir cómo funcionan las cosas (y cómo se rompen 🛠️).
+Hola, soy ZeroEthical No busques certificaciones brillantes aquí. No tengo un OSCP, ni un CEH, ni papeles que digan que soy "apto". Mi conocimiento no viene de un aula, viene de noches de café, depuradores de memoria y de romper cosas hasta entender por qué funcionaban en primer lugar.
 
 > "No soy un villano de película, ni un santo digital, sino alguien que disfruta explorando los límites... con una sonrisa traviesa. 😁"
+
+### 🌓 El Enfoque (GrayHat)
+
+Soy GrayHat. No estoy a favor de nadie ni sigo agendas externas. Mi brújula es el contexto:
+
+* Si algo es injusto o está roto, lo señalo.
+* Si el desafío técnico es interesante, lo exploro.
+* ¿Lado bueno? ¿Lado malo? Depende de quién pregunte y para qué. No me vendo, pero tampoco regalo mi tiempo a causas que no lo valgan.
+
+
+### 🛠️ Lo que sé hacer (My Stack)
+
+Básicamente, me gusta ver lo que hay debajo del capó:
+
+* Explotación de Binarios & Memory Corruption: Jugar con el Heap, el Stack y encontrar ese Use-After-Free que nadie vio.
+* Investigación de Vulnerabilidades (1-days & PoCs): Analizar CVEs recientes y demostrar que el "parche" no siempre es suficiente, me gusta ver cómo fallan los sistemas que todos creen seguros.
+
+* Scripting & Automation: Si tengo que hacer algo dos veces, prefiero escribir un script en Python que lo haga mil veces más rápido.
+
+* Red Teaming & Infiltration: Si hay una puerta digital, hay una forma de entrar. Si no existe, la creo (vía extensiones maliciosas o lo que haga falta).
+
+* Formación: 0% títulos, 100% autodidacta. He aprendido más rompiendo entornos en Linux y Termux que lo que cualquier certificación de entrada podría enseñarme.
+
+* Ingeniería Inversa: Me gusta desarmar juguetes para ver por qué funcionan... y cómo hacer que dejen de hacerlo.
+
+* Self-Taught: Aprendizaje por cuenta propia. Google, documentación técnica y mucha prueba y error.
 
 ## 🛠️ Arsenales & Habilidades
 
@@ -51,16 +75,9 @@ Este repositorio refleja mi viaje en seguridad informática:
 | **📝 Notas** | Fragmentos de aprendizaje, investigaciones y reflexiones sobre seguridad. |
 | **🤝 Contribuciones** | Aportes éticos a la comunidad de seguridad. |
 
-## ⚖️ Ética (Grey Hat)
-
-Creo firmemente en la **divulgación responsable** y el **hacking ético**.
-- 🛡️ Mi objetivo es aprender y contribuir a un mundo digital más seguro.
-- 🚫 Este espacio es estrictamente educativo. **Nunca** para actividades ilegales.
-- 🤝 Cualquier vulnerabilidad descubierta se informa a las partes correspondientes.
-
 ## 📬 Conecta Conmigo
 
-¿Tienes preguntas, sugerencias o quieres charlar sobre seguridad? ¡Hablemos!
+​Si tienes algo interesante que contar o un reto que valga la pena, adelante. Si vienes a darme lecciones de ética, mejor ahorrate el tiempo.
 
 <div align="center">
   <a href="https://t.me/ZeroEthical">
@@ -71,7 +88,5 @@ Creo firmemente en la **divulgación responsable** y el **hacking ético**.
 <br>
 
 <div align="center">
-  <i>"Mantengamos Internet como un lugar para el aprendizaje y el crecimiento."</i>
-  <br>
-  <b>¡Feliz Hacking! 🕵️‍♂️</b>
+  <i>"La privacidad es una ilusión, la seguridad es otra ilusión ✨"</i
 </div>
